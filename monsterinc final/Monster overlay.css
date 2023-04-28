@@ -1,6 +1,6 @@
 /*BEGIN PS4 Controller Styling*/
 .controller.ds4 {
-    background: url(https://imgur.com/9jKX3Ij.png);
+    background: url(https://imgur.com/OFswwab.png);
     height: 598px;
     width: 806px;
     /*    margin-left: -403px;
@@ -77,7 +77,7 @@
 }
 
 .ds4 .touchpad.pressed {
-    background: url(ps4-assets/touchpad.svg) no-repeat center;
+    background: url(https://imgur.com/g9ylXRj.png) no-repeat center;
 }
 
 .ds4 .meta {
@@ -89,7 +89,7 @@
 }
 
 .ds4 .meta.pressed {
-    background: url(ps4-assets/meta.svg) no-repeat center;
+    background: url(https://imgur.com/CroxAo6.png) no-repeat center;
 }
 
 /*Not needed, but I like keeping them here for posterity*/
@@ -157,7 +157,7 @@ background-position: 0 -70px;
     position: absolute;
     width: 55px;
     height: 55px;
-    background: url(ps4-assets/face.svg);
+    background: url(https://imgur.com/ZMwLrNo.png);
 }
 
 .ds4 .button.pressed {
@@ -229,7 +229,7 @@ background-position: 0 -70px;
 }
 
 .ds4 .face {
-    background: url(ps4-assets/dpad.svg);
+    background: url(https://imgur.com/00m45a9.png);
     position: absolute;
 }
 
