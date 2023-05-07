@@ -1,5 +1,5 @@
 .controller.ds5 {
-    background: url(https://imgur.com/2GWBXm8.png);
+    background: url(https://imgur.com/oHAir7Y.png);
     height: 598px;
     width: 806px;
     /*    margin-left: -403px;
@@ -7,7 +7,7 @@
 }
 
 .ds5.disconnected {
-    background: url(disconnected.svg);
+    background: url(https://imgur.com/EIHL8W1.png);
 }
 
 .ds5.disconnected div {
@@ -76,7 +76,7 @@
 }
 
 .ds5 .touchpad.pressed {
-    background: url(https://imgur.com/TTjArGj.png) no-repeat center;
+    background: url(https://imgur.com/qJtPY8e.png) no-repeat center;
 }
 
 .ds5 .meta {
@@ -121,7 +121,7 @@ background-position: 0 -70px;
 }
 
 .ds5 .back, .ds5 .start {
-    background: url(https://imgur.com/TUaR0Uh.png);
+    background: url(https://imgur.com/QkG25Do.png);
     width: 28px;
     height: 46px;
     opacity: 0;
@@ -156,7 +156,7 @@ background-position: 0 -70px;
     position: absolute;
     width: 55px;
     height: 55px;
-    background: url(https://imgur.com/7477Nzw.png);
+    background: url(https://imgur.com/d3syI2R.png);
 }
 
 .ds5 .button.pressed {
@@ -196,7 +196,7 @@ background-position: 0 -70px;
 
 .ds5 .stick {
     position: absolute;
-    background: url(https://imgur.com/jRFfr8V.png);
+    background: url(https://imgur.com/rD1TYEr.png);
     height: 94px;
     width: 94px;
 }
@@ -228,7 +228,7 @@ background-position: 0 -70px;
 }
 
 .ds5 .face {
-    background: url(https://imgur.com/bknRAPi.png);
+    background: url(https://imgur.com/6MWx3Rw.png);
     position: absolute;
 }
 
